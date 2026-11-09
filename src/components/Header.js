@@ -45,7 +45,7 @@ const Header = () => {
             to={'/portfolio'}
             className="text-[#696c6d] hover:text-primary transition"
           >
-            Porftolio
+            Portfolio
           </Link>
           <Link
             to={'/contact'}

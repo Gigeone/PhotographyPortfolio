@@ -37,13 +37,12 @@ const Portfolio = () => {
           >
             <h1 className='h1'>Portfolio</h1>
             <p className='mb-12 max-w-sm'>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              <b> Exercitationem, veritatis.</b> Veritatis illum aut,
-              reprehenderit sed dolorem dolore.
+              A selection of recent work: portraits, fashion editorials and
+              travel stories.<b> Every shoot starts with a conversation</b> about
+              who you are and what you want people to feel.
               <br />
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Recusandae, iure! Ullam, dolore? Eligendi, quam mollitia.
+              Need photos or a film for your project? Let's talk.
             </p>
             <Link to={'/contact'} className='btn mb-[30px] mx-auto lg:mx-0'>
               Hire me

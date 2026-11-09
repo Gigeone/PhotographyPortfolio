@@ -41,13 +41,13 @@ const About = () => {
           >
             <h1 className='h1'>About me</h1>
             <p className='mb-12 max-w-sm'>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              <b> Exercitationem, veritatis.</b> Veritatis illum aut,
-              reprehenderit sed dolorem dolore.
+              Ten years ago I picked up my father's old film camera and never
+              looked back.<b> I tell stories through light.</b> From weddings
+              and portraits to brand campaigns and short films, I capture honest
+              moments that people want to keep for a lifetime.
               <br />
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Recusandae, iure! Ullam, dolore? Eligendi, quam mollitia.
+              Based in Los Angeles, I travel wherever the story takes me.
             </p>
             <Link to={'/portfolio'} className='btn'>
               View my work
